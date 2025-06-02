@@ -1,6 +1,7 @@
 # MouseSIS: Space-Time Instance Segmentation of Mice
 
 [![Paper](https://img.shields.io/badge/arXiv-2409.03358-b31b1b.svg)](https://arxiv.org/abs/2409.03358)
+[![Poster](https://img.shields.io/badge/Poster-PDF-FF6B6B.svg)](docs/2024_ECCVW_MouseSIS_poster.pdf)
 [![Dataset](https://img.shields.io/badge/Dataset-GoogleDrive-4285F4.svg)](https://drive.google.com/drive/folders/1TQns9-WZw-n26FaUE3gqdAhGgrlRUzCp?usp=sharing)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

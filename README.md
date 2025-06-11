@@ -9,6 +9,9 @@ This is the official repository for [**MouseSIS: A Frames-and-Events Dataset for
 
 👀 **This dataset the base for the [SIS Challenge](https://www.codabench.org/competitions/5600/) hosted in conjunction with the [CVPR 2025 Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2025/).**
 
+> 🏆 **[View the complete challenge results and winning teams here!](docs/challenge_results.md)**
+
+
 <p align="center">
   <img src="./image/visualization_seq12_0003.jpg" alt="MouseSIS Visualization" width="600"/>
 </p>
@@ -20,7 +23,9 @@ This is the official repository for [**MouseSIS: A Frames-and-Events Dataset for
 - YouTubeVIS-style annotations
 - Baseline implementation and evaluation metrics included
 
-## Versions
+## Timeline
+
+- **SIS challenge results** (June 2025): We released [the results](docs/challenge_results.md) of the [SIS challenge](https://www.codabench.org/competitions/5600) and presented it at the [CVPR'25 Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2025/).
 
 - **v1.0.0** (Current, February 2024): Major refactoring and updates, including improved documentation.
 - **v0.1.0** (September 2023): Initial release with basic functionality and dataset.
